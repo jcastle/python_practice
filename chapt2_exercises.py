@@ -29,11 +29,11 @@
 # 5
 # Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the converted temperature.
 
-# # Prompt user for Celsius temperature
+# Prompt user for Celsius temperature
 # celsius = input('Please provide a temperature in Celsius: ')
 
-# # Convert temperature to Fahrenheit
+# Convert temperature to Fahrenheit
 # convert_to_Fahrenheit = round((float(celsius) * 9/5) + 32)
 
-# # Print out the converted temperature
+# Print out the converted temperature
 # print(convert_to_Fahrenheit)
