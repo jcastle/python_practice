@@ -81,6 +81,8 @@
 
 # Run the program repeatedly as shown above to test the various different values for input.
 
+# Need to finish with accounting for line #70 where score is entered as text
+
 score = input('Input a score between 0.0 and 1.0: ')
 num_score = float(score)
 
