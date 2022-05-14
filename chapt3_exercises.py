@@ -80,3 +80,19 @@
 # F
 
 # Run the program repeatedly as shown above to test the various different values for input.
+
+score = input('Input a score between 0.0 and 1.0: ')
+num_score = float(score)
+
+if num_score < 0.0 or num_score > 10:
+    print('Bad score')
+elif num_score >= 0.9:
+    print('A')
+elif num_score >= 0.8:
+    print('B')
+elif num_score >= 0.7:
+    print('C')
+elif num_score >= 0.6:
+    print('D')
+elif num_score < 0.6:
+    print('F')
